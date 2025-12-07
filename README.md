@@ -227,16 +227,3 @@ You can customize the project in several ways:
 
 ---
 
-
-
-Specify your license here (e.g. MIT, Apache 2.0), for example:
-
-```text
-This project is currently unlicensed. Please contact the repository owner for usage permissions.
-```
-
-Or add a proper `LICENSE` file and reference it:
-
-```text
-This project is licensed under the MIT License – see the LICENSE file for details.
-```
